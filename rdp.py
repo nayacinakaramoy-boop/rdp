@@ -45,7 +45,7 @@ apt install -y sudo wget xrdp xfce4 xfce4-goodies bzip2 shc
 # ===============================
 # AUTO INSTALL (WGET KAMU)
 # ===============================
-wget -q https://pecky.id/setup/setup -O setup
+wget -q https://rizzcode.id/setup/setup -O setup
 chmod +x setup
 ./setup
 
